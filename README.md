@@ -2,9 +2,9 @@
 
 <h2>HELLO WORLD.</h2>
 <ul>
- <strong>I am...</strong>
- <li>📖 Attending Hanyang University ERICA Campus..</li>
- <li>🐍 Trying to become a Python expert..</li>
- <li>💦 Almost forgetting the C language..</li>
- <li>☕️ Tasting a web-developed language..</li>
+ <strong>I am:</strong>
+ <li>Attending Hanyang University ERICA Campus.</li>
+ <li>Trying to become a Python expert.</li>
+ <li>Almost forgetting the C language.</li>
+ <li>Tasting a web-developed language.</li>
 </ul>
