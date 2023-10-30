@@ -4,5 +4,5 @@
 <ul>
  <strong>I am:</strong>
  <li>Attending Hanyang University ERICA Campus.</li>
- <li>and I like Coffee a lot</li>
+ <li>and I like coffee a lot</li>
 </ul>
